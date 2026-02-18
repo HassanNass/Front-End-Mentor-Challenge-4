@@ -2,55 +2,11 @@
 
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+ - Overview :
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+This project is a solution to a Frontend Mentor challenge. The goal was to build a responsive and visually accurate layout based on the provided design while following modern web development best practices.
 
-## Overview
+The project was built using semantic HTML and CSS, focusing on accessibility, clean structure, and maintainable styling. The layout is fully responsive and adapts to different screen sizes using flexible layouts, media queries, and scalable units.
 
-### Screenshot
-
-
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-
-
-### What I learned
-
-
-
-### Continued development
-
-
-
-### Useful resources
-
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
+During this project, I focused on writing organized and readable code, applying reusable styling techniques, and improving my understanding of responsive design principles. I also paid attention to details such as spacing, typography, and component consistency to closely match the original design.
