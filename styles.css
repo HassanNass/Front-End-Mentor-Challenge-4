@@ -119,4 +119,18 @@ hr {
 	margin-bottom: 1rem;
 }
 
+@media (max-width: 450px) {
+	body {
+		background-color: var(--clr-White);
+	}
 
+	.container {
+		margin: 0;
+	}
+
+	.container img {
+		width: calc(100% + 3rem);
+		margin-inline: -1.5rem;
+		margin-top: -1.5rem;
+	}
+}
