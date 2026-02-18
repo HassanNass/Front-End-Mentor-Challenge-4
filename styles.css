@@ -50,15 +50,40 @@ img {
 	color: var(--Stone-900);
 }
 
-.container section h2 {
-	color: var(--Rose-800);
+.duration {
+	background-color: var(--Rose-50);
+	width: 100%;
+	padding: 1.5rem;
+	border-radius: 0.5rem;
 }
 
-.duration-header {
+.container section h2 {
+	color: var(--Rose-800);
 	margin-bottom: 1rem;
 }
 
-.instructions-list li, .ingredients-list li, .duration-list li, p {
+.duration-list, .ingredients-list, .instructions-list, .nutrition-list {
+	padding-left: 2rem;
+}
+
+.ingredients-list li::marker, .instructions-list li::marker {
+	color: var(--Brown-800);
+}
+
+.duration-list li::marker {
+	color: var(--Rose-800);
+}
+
+.duration-list li, .ingredients-list li, .instructions-list li {
+	padding-left: 1rem;
+	margin-bottom: 1rem;
+}
+
+.instructions-list li::marker {
+	font-weight: 700;
+}
+
+p {
 	margin-bottom: 1rem;
 }
 
@@ -76,7 +101,22 @@ hr {
 	margin-top: 2.5rem;
 }
 
+.nutrition-list li {
+	list-style-type: none;
+	display: grid;
+	grid-template-columns: 1fr auto 1fr;
+	align-items: center;
+}
+
+.nutrition-list span {
+	color: var(--Brown-800);
+	grid-column: 2;
+	justify-self: center;
+}
+
 .nutrition-list hr {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 }
+
+
